@@ -3,7 +3,7 @@
 "productName": "SUMOGA",
 "productVersion": "0.1",
 "dataUrl": "SWebTest.data.unityweb",
-"wasmCodeUrl": "SWebTest.wasm.code.unityweb",
+"wasmCodeUrl": "SWebTest.wasm",
 "wasmFrameworkUrl": "SWebTest.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
